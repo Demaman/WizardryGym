@@ -1,0 +1,3 @@
+[submodule "WizardryGym"]
+    path = WizardryGym
+    url = https://github.com/yourusername/WizardryGym.git
